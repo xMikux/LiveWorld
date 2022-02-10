@@ -1,1 +1,2 @@
 0470da75f928d884e04941c08ec6523ead7f0d40a88b0736a7b4da45faa9d563  LiveServer-WorldMap.zip
+33ccf9f29b94de1eb6c4de725a9e6753749bc8b8ff7da9fb5650d66cf2a9badf  TestServer-WorldMap.zip
