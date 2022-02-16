@@ -1,1 +1,2 @@
 c55de2fd31000c710562c8118def0d41fec5730d3fd9ae24ded755832842019e  TestServer-WorldMap.zip
+48717b80440d6c09ea169b9677c1369b224daff7f5becb49ee4c4fc03dce9789  LiveServer-WorldMap.zip
